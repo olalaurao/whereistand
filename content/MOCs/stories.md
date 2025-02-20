@@ -1,7 +1,7 @@
 ---
-title: "stories" 
+title: stories
 draft: false
 tags:
-  - 
+  - moc
 ---
  

@@ -2,9 +2,9 @@
 title: you found my digital garden!
 ---
 
-# laura explores culture, storytelling, and research to understand how we can be responsible for the stories we tell about ourselves, shaping the future we build every day
-## social scientist with a passion for anthropology and writing
-### currently strategy assistant at ampfy
+**laura explores culture, storytelling, and research to understand how we can be responsible for the stories we tell about ourselves, shape the future we build every day**
+**social scientist with a passion for anthropology and writing**
+**currently *strategy assistant* at [ampfy](https://ampfy.com/en/)**
 
 hello, and welcome to my _[[digital garden]]_!
 

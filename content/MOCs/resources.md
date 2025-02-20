@@ -1,7 +1,7 @@
 ---
-title: "projects" 
+title: resources
 draft: false
 tags:
-  - 
+  - moc
 ---
  
